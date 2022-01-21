@@ -1,0 +1,14 @@
+﻿<Window x:Class="Rock_Paper_Scissors.Gewonnen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Rock_Paper_Scissors"
+        mc:Ignorable="d"
+        Title="Gewonnen" Height="450" Width="800" Icon="RockPaperScissors.png">
+  <Grid>
+    <Label Content="Du bist ein Gewinner!" HorizontalAlignment="Left" Margin="160,105,0,0" VerticalAlignment="Top" Height="80" Width="490" FontSize="50"/>
+    <Button Click="btnReplay_Click" Cursor="Hand" x:Name="btnReplay" Content="Replay" HorizontalAlignment="Left" Margin="250,245,0,0" VerticalAlignment="Top" Width="140" FontSize="25" Height="50"/>
+    <Button Click="btnFinish_Click" Cursor="Hand" x:Name="btnFinish" Content="Finish" HorizontalAlignment="Left" Margin="415,245,0,0" VerticalAlignment="Top" Width="140" FontSize="25" Height="50"/>
+  </Grid>
+</Window>

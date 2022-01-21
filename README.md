@@ -1,3 +1,2 @@
 # Rock-Paper-Scissors-in-WPF
-
-Ein Schere-Stein-Papier Spiel gemacht mit C# WPF
+This is my first little game developed with wpf.

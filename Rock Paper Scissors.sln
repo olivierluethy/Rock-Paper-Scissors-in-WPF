@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rock Paper Scissors", "Rock Paper Scissors\Rock Paper Scissors.csproj", "{2308F4F7-FF4D-42E9-8F4E-09C19EFF88F4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Rock Paper Scissors - Setup", "Rock Paper Scissors - Setup\Rock Paper Scissors - Setup.vdproj", "{6B25C032-1577-4C8F-9CDE-EB71F4DB552B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2308F4F7-FF4D-42E9-8F4E-09C19EFF88F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2308F4F7-FF4D-42E9-8F4E-09C19EFF88F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2308F4F7-FF4D-42E9-8F4E-09C19EFF88F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2308F4F7-FF4D-42E9-8F4E-09C19EFF88F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B25C032-1577-4C8F-9CDE-EB71F4DB552B}.Debug|Any CPU.ActiveCfg = Debug
+		{6B25C032-1577-4C8F-9CDE-EB71F4DB552B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8107669-4A70-419D-86C3-03F1DBC65B9C}
+	EndGlobalSection
+EndGlobal
